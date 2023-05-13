@@ -1,7 +1,6 @@
 import os
 import moviepy.editor as mpy
 
-
 def make_mp4(folder='animation'):
 
     file_list = (os.listdir(folder))

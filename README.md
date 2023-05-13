@@ -5,3 +5,4 @@ The goal of this project is to create a workflow for porting midi information in
 rtmidi is the python package that allows for the reception and generation of midi information, and allows us to open a synthetic midi port for reception of a DAW.
 
 # pygame
+We use pygame to visualize our instrument, and animate useful or esthetic visual information.
