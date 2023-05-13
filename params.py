@@ -7,7 +7,7 @@ from classes import *
 # ---------------------------
 
 # used to make animation
-MP4 = False
+MP4 = True
 # speed of birds
 SPEED = 0.01
 # bird size

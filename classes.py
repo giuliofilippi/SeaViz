@@ -41,6 +41,7 @@ def get_triangle_points(pos, direction, size, loc, scale):
 
 # Star positions
 note_positions = star_positions()
+
 # dictionnary of indices for notes
 note_index = {i:(i+6)%12 for i in range(1,13)}
 

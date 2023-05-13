@@ -32,13 +32,13 @@ def main():
     note_colors = note_palette.copy()
 
     # -------- Main Program Loop -----------
-    i = 0
+    count = 0
     while not done:
-        i+=1
+        count+=1
 
         # --- Animation
         if MP4 == True:
-            filename = 'animation/'+'capture_'+str(i)+'.jpeg'
+            filename = 'animation/'+'capture_'+str(count)+'.jpeg'
             pygame.image.save(screen, filename)
 
         # --- Events
