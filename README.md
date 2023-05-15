@@ -7,4 +7,4 @@ python-rtmidi is the python package that allows for the reception and generation
 # pygame
 We use pygame to visualize our instrument, and animate useful or esthetic visual information.
 
-![capture_70](https://github.com/giuliofilippi/SeaViz/assets/54779477/8f1fbd6b-4c29-47c7-b843-0eb0d9a2080a | width=100)
+<img src=["https://github.com/favicon.ico](https://github.com/giuliofilippi/SeaViz/assets/54779477/8f1fbd6b-4c29-47c7-b843-0eb0d9a2080a)" width="100">
